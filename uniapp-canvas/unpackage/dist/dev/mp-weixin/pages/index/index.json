@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "canvas-dialog": "/components/canvas-dialog/canvas-dialog",
+    "canvas-dialog2": "/components/canvas-dialog2/canvas-dialog2"
+  }
+}
